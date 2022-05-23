@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="Theme.PrudentialInterviewTest" parent="Theme.Design.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/bg_color</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+</resources>

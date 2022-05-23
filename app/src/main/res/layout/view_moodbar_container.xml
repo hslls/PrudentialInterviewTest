@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <cn.com.prudential.interview.test.view.MoodBar
+        android:id="@+id/saturday"
+        style="@style/mood_bar" />
+
+    <cn.com.prudential.interview.test.view.MoodBar
+        android:id="@+id/sunday"
+        style="@style/mood_bar" />
+
+    <cn.com.prudential.interview.test.view.MoodBar
+        android:id="@+id/monday"
+        style="@style/mood_bar" />
+
+    <cn.com.prudential.interview.test.view.MoodBar
+        android:id="@+id/tuesday"
+        style="@style/mood_bar" />
+
+    <cn.com.prudential.interview.test.view.MoodBar
+        android:id="@+id/wednesday"
+        style="@style/mood_bar" />
+
+    <cn.com.prudential.interview.test.view.MoodBar
+        android:id="@+id/thursday"
+        style="@style/mood_bar" />
+
+    <cn.com.prudential.interview.test.view.MoodBar
+        android:id="@+id/friday"
+        style="@style/mood_bar" />
+
+</merge>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/mood_bar_round" />
+    <gradient
+        android:angle="90"
+        android:endColor="#42F373"
+        android:startColor="#A1FD44" />
+    <stroke
+        android:width="@dimen/mood_bar_selected_border"
+        android:color="#DCFFD6" />
+</shape>
